@@ -19,4 +19,5 @@ Installing Dependencies:
 flutter pub get
 
 Run the application:
+
 flutter run
