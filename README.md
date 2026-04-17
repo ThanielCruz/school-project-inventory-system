@@ -16,6 +16,7 @@ pubspec.yaml : The project’s manifest file, listing all Flutter and Dart depen
 gitclone: https://github.com/ThanielCruz/school-project-inventory-system
 
 Installing Dependencies: 
+
 flutter pub get
 
 Run the application:
